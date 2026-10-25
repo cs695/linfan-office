@@ -1,0 +1,10 @@
+# Cloudflare Pages: status.json must never be cached, so the 60s poll always sees the latest content
+/status.json
+  Cache-Control: no-store, max-age=0
+  Access-Control-Allow-Origin: *
+/index.html
+  Cache-Control: no-cache
+/js/*
+  Cache-Control: public, max-age=3600
+/assets/*
+  Cache-Control: public, max-age=86400

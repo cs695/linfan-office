@@ -1,0 +1,45 @@
+{
+ "updated": "2026-10-26T07:12:53+08:00",
+ "agents": [
+  {
+   "id": "scarlett",
+   "name": "Scarlett",
+   "role": "A&R",
+   "activity": "typing",
+   "status": "跟進招募 DM、整理名單",
+   "alert": ""
+  },
+  {
+   "id": "tatum",
+   "name": "Tatum",
+   "role": "Marketing",
+   "activity": "thinking",
+   "status": "準備 Threads 發佈同數據分析",
+   "alert": ""
+  },
+  {
+   "id": "luke",
+   "name": "Luke",
+   "role": "Originals",
+   "activity": "idle",
+   "status": "待命",
+   "alert": ""
+  },
+  {
+   "id": "jaylen",
+   "name": "Jaylen",
+   "role": "Music Production",
+   "activity": "thinking",
+   "status": "處理音樂製作工具相關",
+   "alert": ""
+  },
+  {
+   "id": "jennifer",
+   "name": "Jennifer",
+   "role": "Operations",
+   "activity": "typing",
+   "status": "統籌團隊、整理匯報",
+   "alert": ""
+  }
+ ]
+}
