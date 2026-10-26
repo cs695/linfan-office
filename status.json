@@ -1,45 +1,45 @@
 {
- "updated": "2026-10-26T07:12:53+08:00",
- "agents": [
-  {
-   "id": "scarlett",
-   "name": "Scarlett",
-   "role": "A&R",
-   "activity": "typing",
-   "status": "跟進招募 DM、整理名單",
-   "alert": ""
-  },
-  {
-   "id": "tatum",
-   "name": "Tatum",
-   "role": "Marketing",
-   "activity": "thinking",
-   "status": "準備 Threads 發佈同數據分析",
-   "alert": ""
-  },
-  {
-   "id": "luke",
-   "name": "Luke",
-   "role": "Originals",
-   "activity": "idle",
-   "status": "待命",
-   "alert": ""
-  },
-  {
-   "id": "jaylen",
-   "name": "Jaylen",
-   "role": "Music Production",
-   "activity": "thinking",
-   "status": "處理音樂製作工具相關",
-   "alert": ""
-  },
-  {
-   "id": "jennifer",
-   "name": "Jennifer",
-   "role": "Operations",
-   "activity": "typing",
-   "status": "統籌團隊、整理匯報",
-   "alert": ""
-  }
- ]
+  "updated": "2026-10-26T23:04:29+08:00",
+  "agents": [
+    {
+      "id": "scarlett",
+      "name": "Scarlett",
+      "role": "A&R",
+      "activity": "idle",
+      "status": "今日招募 DM 已完成，晚間待命",
+      "alert": ""
+    },
+    {
+      "id": "tatum",
+      "name": "Tatum",
+      "role": "Marketing",
+      "activity": "idle",
+      "status": "已發 T2，跟進 Threads 數據",
+      "alert": ""
+    },
+    {
+      "id": "luke",
+      "name": "Luke",
+      "role": "Originals",
+      "activity": "idle",
+      "status": "等封面同 Logo 指示",
+      "alert": "等 Lobaton：3.2.1 封面邊個做"
+    },
+    {
+      "id": "jaylen",
+      "name": "Jaylen",
+      "role": "Music Production",
+      "activity": "idle",
+      "status": "版權同歌單核對已交",
+      "alert": "等 Lobaton：斷捨離發佈確認"
+    },
+    {
+      "id": "jennifer",
+      "name": "Jennifer",
+      "role": "Operations",
+      "activity": "thinking",
+      "status": "晚間巡查、更新辦公室狀態",
+      "alert": ""
+    }
+  ]
 }
